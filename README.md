@@ -9,4 +9,4 @@ Exploratory Data Analysis on World Happiness Report.
 5. Visualize and Examine Data
 6. Multiple Linear Regression
 7. Conclusion
-8. ![Final report](https://medium.com/towards-data-science/happiness-and-life-satisfaction-ecdc7d0ab9a5)
+8. [Final report](https://medium.com/towards-data-science/happiness-and-life-satisfaction-ecdc7d0ab9a5)
